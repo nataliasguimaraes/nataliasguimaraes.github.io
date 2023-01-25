@@ -73,7 +73,7 @@ https://simpleicons.org/?q=react
   dentre outros...
 
 * CSS
-  * [`margin`]https://developer.mozilla.org/pt-BR/docs/Web/CSS/margin) para definir a área da margem;
+  * [`margin`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/margin) para definir a área da margem;
   * [`padding`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/padding) para definir a distância entre o conteúdo de um elemento e suas bordas;
   * [`font-family`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/font-family) para definir as famílias de fonte;
   * [`root`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:root) para definir um seletor de elementos;
