@@ -55,7 +55,7 @@ https://simpleicons.org/?q=react
    <!------------------------------------DESCRIPTION-->
 
 # <img  alt="Description"  width="40" height="40" src="https://user-images.githubusercontent.com/104440384/197401332-8a63c531-bd11-4995-b8ff-98d384f18cb3.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
-> Esse foi um projeto de Portfólio desenvolvido durante a trilha de aprendizado da Compass UOL, em um curso de Git e GitHub, com o objetivo de colocar em prática os aprendizados sobre manipulação de repositórios. Também foi possível trabalhar HTML, CSS e responsividade.
+> Esse foi um projeto de Portfólio desenvolvido durante a trilha de aprendizado da Compass UOL, com o objetivo de criar um Portfólio, onde foi possível colocar em prática os aprendizados sobre HTML, CSS, manipulação de repositórios no Github e responsividade.
   
 <!------------------------------------LAYOUT -->
 # <img  alt="Layout"  width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/3474/3474362.png">  Layout <!---write here : talk a little about project: what's does, example.  -->
